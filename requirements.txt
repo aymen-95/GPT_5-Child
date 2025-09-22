@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+orjson
+numpy
+sentence-transformers
+faiss-cpu
+rich

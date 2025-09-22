@@ -84,9 +84,9 @@ cd gpt5_child
 
 ## 🌐 Contact
 
-* Founder: \[Your Name]
-* Email: \[Your Email]
-* Twitter/LinkedIn: \[Your Links]
+* Founder: aymen al-alimi
+* Email: \a7yan95@gmail.com
+* LinkedIn: \www.linkedin.com/in/aymen-alimi
 
 ---
 

@@ -57,7 +57,7 @@ graph TD
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/username/gpt5_child.git
+git clone https://github.com/aymen-95/gpt5_child.git
 cd gpt5_child
 ```
 
